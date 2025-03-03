@@ -25,9 +25,9 @@ You will mostly find me building web applications, contributing to open-source d
 
 #
 <div style="display: flex; align-items: center;">
-  <img src="https://giffiles.alphacoders.com/195/195303.gif" alt="GIF" height="180" style="padding-right: 20px;">
+  <img src="https://giffiles.alphacoders.com/195/195303.gif" alt="GIF" height="200" style="padding-right: 20px;">
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=aayusha-shrestha&show_icons=true&theme=dark" alt="GitHub Stats" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=aayusha-shrestha&show_icons=true&theme=dark" alt="GitHub Stats" height="200">
 </div>
 
 
