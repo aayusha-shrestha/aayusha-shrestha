@@ -5,8 +5,17 @@ You will mostly find me building web applications, contributing to open-source d
 
 #
 
-### Languages and Tools
+<div style="display: flex; align-items: center;">
+  <img src="https://giffiles.alphacoders.com/195/195303.gif" alt="GIF" height="210" style="padding-right: 20px;">
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=aayusha-shrestha&show_icons=true&theme=dark" alt="GitHub Stats" height="210">
+</div>
 
+#
+
+<details>
+<summary><b>Languages and Tools</b></summary>
+  <br/>
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img align="left" alt="MySQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -22,22 +31,4 @@ You will mostly find me building web applications, contributing to open-source d
 <img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <img align="left" alt="Postman" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
 <br/>
-
-#
-
-<div style="display: flex; align-items: center;">
-  <img src="https://giffiles.alphacoders.com/195/195303.gif" alt="GIF" height="210" style="padding-right: 20px;">
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=aayusha-shrestha&show_icons=true&theme=dark" alt="GitHub Stats" height="210">
-</div>
-
-
-
-
-
-
-
-
-
-
-          
+</details>
