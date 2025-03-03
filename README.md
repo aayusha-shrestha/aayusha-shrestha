@@ -24,6 +24,7 @@ You will mostly find me building web applications, contributing to open-source d
 <br/>
 
 #
+
 <div style="display: flex; align-items: center;">
   <img src="https://giffiles.alphacoders.com/195/195303.gif" alt="GIF" height="210" style="padding-right: 20px;">
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
