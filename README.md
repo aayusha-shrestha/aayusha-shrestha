@@ -19,16 +19,15 @@ You will mostly find me building web applications, contributing to open-source d
 <img align="left" alt="pandas" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
 <img align="left" alt="NumPy" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
 <img align="left" alt="postgresql" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <img align="left" alt="Postman" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
 <br/>
 
 #
 <div style="display: flex; align-items: center;">
-  <img src="https://giffiles.alphacoders.com/195/195303.gif" alt="GIF" height="230" style="padding-right: 20px;">
+  <img src="https://giffiles.alphacoders.com/195/195303.gif" alt="GIF" height="180" style="padding-right: 20px;">
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=aayusha-shrestha&show_icons=true&theme=dark" alt="GitHub Stats" height="230">
+  <img src="https://github-readme-stats.vercel.app/api?username=aayusha-shrestha&show_icons=true&theme=dark" alt="GitHub Stats" height="180">
 </div>
 
 
