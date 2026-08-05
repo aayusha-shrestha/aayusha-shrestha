@@ -8,7 +8,7 @@ You will mostly find me building web applications, contributing to open-source d
 <div style="display: flex; align-items: center;">
   <img src="https://giffiles.alphacoders.com/195/195303.gif" alt="GIF" height="210" style="padding-right: 20px;">
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=aayusha-shrestha&show_icons=true&theme=dark" alt="GitHub Stats" height="210">
+  <img src="https://streak-stats.demolab.com?user=aayusha-shrestha&theme=dark" alt="GitHub Stats" height="210">
 </div>
 
 #
